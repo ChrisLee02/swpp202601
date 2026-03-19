@@ -23,10 +23,11 @@ We'll *rarely* be using eTL on this course!
 * We may instruct you to submit some of the assignments via eTL
 
 ## Announcements
-* Submit your GitHub username by 3/12 (Thu)
-* If you need to use development server, submit your username by 3/17 (Tue)
+* ~~Submit your GitHub username by 3/12 (Thu)~~
+* ~~If you need to use development server, submit your username by 3/17 (Tue)~~
 
 ## Assignments
-* Assignment 1 has been released. See [Assignment 1 Directory](assignments/assignment1) for details.
+* (Mar. 10) Assignment 1 has been released. See [Assignment 1 Directory](assignments/assignment1) for details.
+* (Mar. 19) Assignment 2 has been released. See [Assignment 2 Directory](assignments/assignment2) for details.
 
 ## Projects

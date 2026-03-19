@@ -9,3 +9,5 @@ Note: More materials will be added as the semester goes on!
 ### Update Notes
 * 2026/03/03: Updated installation scripts
 * 2026/03/06: Uploaded practice session slides 00~01 & updated installation scripts again
+* 2026/03/12: Uploaded practice session slides 02
+* 2026/03/19: Uploaded practice session slides 03~05
