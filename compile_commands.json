@@ -1,0 +1,56 @@
+[
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o interface/CMakeFiles/collect.mod.dir/collect.cppm.o -c /home/chrislee/swpp202601/assignments/assignment2/interface/collect.cppm",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/interface/collect.cppm",
+    "output": "interface/CMakeFiles/collect.mod.dir/collect.cppm.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o interface/CMakeFiles/maybe_something.mod.dir/maybe_something.cppm.o -c /home/chrislee/swpp202601/assignments/assignment2/interface/maybe_something.cppm",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/interface/maybe_something.cppm",
+    "output": "interface/CMakeFiles/maybe_something.mod.dir/maybe_something.cppm.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o interface/CMakeFiles/test_helper.mod.dir/test_helper.cppm.o -c /home/chrislee/swpp202601/assignments/assignment2/interface/test_helper.cppm",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/interface/test_helper.cppm",
+    "output": "interface/CMakeFiles/test_helper.mod.dir/test_helper.cppm.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o impl/CMakeFiles/maybe_something.dir/maybe_something.cpp.o -c /home/chrislee/swpp202601/assignments/assignment2/impl/maybe_something.cpp",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/impl/maybe_something.cpp",
+    "output": "impl/CMakeFiles/maybe_something.dir/maybe_something.cpp.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o impl/CMakeFiles/test_helper.dir/test_helper.cpp.o -c /home/chrislee/swpp202601/assignments/assignment2/impl/test_helper.cpp",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/impl/test_helper.cpp",
+    "output": "impl/CMakeFiles/test_helper.dir/test_helper.cpp.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o test/collect/CMakeFiles/collect_test_success.dir/test_success.cpp.o -c /home/chrislee/swpp202601/assignments/assignment2/test/collect/test_success.cpp",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/test/collect/test_success.cpp",
+    "output": "test/collect/CMakeFiles/collect_test_success.dir/test_success.cpp.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o test/collect/CMakeFiles/collect_test_failure.dir/test_failure.cpp.o -c /home/chrislee/swpp202601/assignments/assignment2/test/collect/test_failure.cpp",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/test/collect/test_failure.cpp",
+    "output": "test/collect/CMakeFiles/collect_test_failure.dir/test_failure.cpp.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o test/collect/CMakeFiles/collect_test_move.dir/test_move.cpp.o -c /home/chrislee/swpp202601/assignments/assignment2/test/collect/test_move.cpp",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/test/collect/test_move.cpp",
+    "output": "test/collect/CMakeFiles/collect_test_move.dir/test_move.cpp.o"
+  },
+  {
+    "directory": "/home/chrislee/swpp202601/assignments/assignment2/build",
+    "command": "/usr/bin/c++ -std=c++23 -o test/maybe_something/CMakeFiles/maybe_test.dir/test.cpp.o -c /home/chrislee/swpp202601/assignments/assignment2/test/maybe_something/test.cpp",
+    "file": "/home/chrislee/swpp202601/assignments/assignment2/test/maybe_something/test.cpp",
+    "output": "test/maybe_something/CMakeFiles/maybe_test.dir/test.cpp.o"
+  }
+]
